@@ -44,7 +44,7 @@ plt.scatter(x, y, color='blue', label='Actual data')
 plt.plot(x, y_pred, color='red', label='Line of best fit')
 plt.xlabel('Office Size (sq. ft)')
 plt.ylabel('Office Price')
-plt.title('Linear Regression: Office Size vs. Price (Adjusted Learning Rate)')
+plt.title('Graph of Office Size in sq. ft. vs. Price')
 plt.legend()
 plt.show()
 
